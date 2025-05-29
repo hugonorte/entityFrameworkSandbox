@@ -32,6 +32,9 @@ MYSQL_ROOT_PASSWORD=RootPass123
 MYSQL_DATABASE=sandbox_db
 MYSQL_USER=sandbox_user
 MYSQL_PASSWORD=UserPass456
+
+UID=$(id -u)
+GID=$(id -g)
 ```
 6. Crie o ambiente com o Docker
 ```bash
