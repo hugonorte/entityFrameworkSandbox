@@ -1,12 +1,6 @@
-# Dockerfile
-
-FROM mcr.microsoft.com/dotnet/sdk:9.0 AS dev
+FROM mcr.microsoft.com/dotnet/sdk:9.0
 WORKDIR /app
-
-# Copia os arquivos de código-fonte (caso já existam)
 COPY ./app ./app
-
-# Define porta padrão de execução
 EXPOSE 8080
-ENV ASPNETCORE_URLS=http://+:8080
-
+ENV DOTNET_USE_POLLING_FILE_WATCHER=true
+CMD ["dotnet", "watch", "--project", "TarefasAPI/TarefasAPI.csproj", "run", "--urls", "http://0.0.0.0:8080"]

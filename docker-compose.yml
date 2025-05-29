@@ -5,15 +5,18 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
+      args:
+        USER_ID: ${UID}
+        GROUP_ID: ${GID}
     container_name: sandbox_app
     ports:
       - "8080:8080"
     volumes:
       - ./app:/app
-    depends_on:
-      - db
     environment:
       - DOTNET_USE_POLLING_FILE_WATCHER=true
+    depends_on:
+      - db
     tty: true
     stdin_open: true
 
