@@ -42,3 +42,11 @@ Agora o ambiente está pronto para uso.
 ```bash
 docker exec -it sandbox_app /bin/bash
 ```
+
+### Instalação de pacotes
+## MySQL
+Para instalar o pacote do mysql no projeto, utilize: 
+```bash
+dotnet add package MySql.EntityFrameworkCore
+```
+
