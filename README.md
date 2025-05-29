@@ -38,9 +38,25 @@ MYSQL_PASSWORD=UserPass456
 docker compose up --build
 ```
 Agora o ambiente está pronto para uso.
-7. Lembre-se que antes de rodar comandos no terminal do Docker, você precisará entrar no terminal da aplicação **dentro** do Docker
+7. Agora precisaremos rodar comandos no terminal do Docker, você precisará entrar no terminal da aplicação **dentro** do Docker
 ```bash
 docker exec -it sandbox_app /bin/bash
+```
+8. Agora crie a sua aplicação API 
+```bash
+dotnet new webapi -n _nome_do_seu_projeto_
+```
+9. Acesse o diretório da aplicação
+```bash
+cd _nome_do_seu_projeto_
+```
+10. Coloque a aplicação para rodar
+```bash
+dotnet run  --urls=http://0.0.0.0:5271
+```
+11. Teste a aplicação em 
+```bash
+http://localhost:5271/weatherforecast
 ```
 
 ### Instalação de pacotes
@@ -48,5 +64,9 @@ docker exec -it sandbox_app /bin/bash
 Para instalar o pacote do mysql no projeto, utilize: 
 ```bash
 dotnet add package MySql.EntityFrameworkCore
+```
+Para instalar o pacote do Entity Framework no projeto, utilize: 
+```bash
+dotnet add package Microsoft.EntityFrameworkCore
 ```
 
