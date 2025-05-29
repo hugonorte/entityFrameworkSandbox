@@ -10,7 +10,7 @@ services:
         GROUP_ID: ${GID}
     container_name: sandbox_app
     ports:
-      - "8080:8080"
+      - "5271:5271"
     volumes:
       - ./app:/app
     environment:
