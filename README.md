@@ -38,3 +38,7 @@ MYSQL_PASSWORD=UserPass456
 docker compose up --build
 ```
 Agora o ambiente está pronto para uso.
+7. Lembre-se que antes de rodar comandos no terminal do Docker, você precisará entrar no terminal da aplicação **dentro** do Docker
+```bash
+docker exec -it sandbox_app /bin/bash
+```
