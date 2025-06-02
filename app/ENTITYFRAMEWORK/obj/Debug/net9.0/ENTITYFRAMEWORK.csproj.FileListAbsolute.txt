@@ -1,0 +1,278 @@
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/obj/Debug/net9.0/ENTITYFRAMEWORK.csproj.AssemblyReference.cache
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/obj/Debug/net9.0/ENTITYFRAMEWORK.GeneratedMSBuildEditorConfig.editorconfig
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/obj/Debug/net9.0/ENTITYFRAMEWORK.AssemblyInfoInputs.cache
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/obj/Debug/net9.0/ENTITYFRAMEWORK.AssemblyInfo.cs
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/obj/Debug/net9.0/ENTITYFRAMEWORK.csproj.CoreCompileInputs.cache
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/obj/Debug/net9.0/ENTITYFRAMEWORK.MvcApplicationPartsAssemblyInfo.cs
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/obj/Debug/net9.0/ENTITYFRAMEWORK.MvcApplicationPartsAssemblyInfo.cache
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/obj/Debug/net9.0/ENTITYFRAMEWORK.sourcelink.json
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/appsettings.Development.json
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/appsettings.json
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/ENTITYFRAMEWORK.staticwebassets.endpoints.json
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/ENTITYFRAMEWORK
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/ENTITYFRAMEWORK.deps.json
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/ENTITYFRAMEWORK.runtimeconfig.json
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/ENTITYFRAMEWORK.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/ENTITYFRAMEWORK.pdb
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Humanizer.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Mono.TextTemplating.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/MySqlConnector.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/System.CodeDom.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/System.Composition.Convention.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/System.Composition.Hosting.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/System.Composition.Runtime.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/obj/Debug/net9.0/scopedcss/bundle/ENTITYFRAMEWORK.styles.css
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/obj/Debug/net9.0/staticwebassets.build.json
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/obj/Debug/net9.0/staticwebassets.development.json
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/obj/Debug/net9.0/staticwebassets/msbuild.ENTITYFRAMEWORK.Microsoft.AspNetCore.StaticWebAssets.props
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/obj/Debug/net9.0/staticwebassets/msbuild.ENTITYFRAMEWORK.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/obj/Debug/net9.0/staticwebassets/msbuild.build.ENTITYFRAMEWORK.props
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.ENTITYFRAMEWORK.props
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.ENTITYFRAMEWORK.props
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/obj/Debug/net9.0/staticwebassets.pack.json
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/obj/Debug/net9.0/ENTITYFR.2C37A547.Up2Date
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/obj/Debug/net9.0/ENTITYFRAMEWORK.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/obj/Debug/net9.0/refint/ENTITYFRAMEWORK.dll
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/obj/Debug/net9.0/ENTITYFRAMEWORK.pdb
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/obj/Debug/net9.0/ENTITYFRAMEWORK.genruntimeconfig.cache
+/home/tipstg-07/Área de Trabalho/DotnetPRojects/EntityFrameWork/entityFrameworkSandbox/app/ENTITYFRAMEWORK/obj/Debug/net9.0/ref/ENTITYFRAMEWORK.dll
+/app/bin/Debug/net9.0/appsettings.Development.json
+/app/bin/Debug/net9.0/appsettings.json
+/app/bin/Debug/net9.0/ENTITYFRAMEWORK.staticwebassets.endpoints.json
+/app/bin/Debug/net9.0/ENTITYFRAMEWORK
+/app/bin/Debug/net9.0/ENTITYFRAMEWORK.deps.json
+/app/bin/Debug/net9.0/ENTITYFRAMEWORK.runtimeconfig.json
+/app/bin/Debug/net9.0/ENTITYFRAMEWORK.dll
+/app/bin/Debug/net9.0/ENTITYFRAMEWORK.pdb
+/app/bin/Debug/net9.0/Humanizer.dll
+/app/bin/Debug/net9.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/app/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/app/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/app/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/app/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/app/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/app/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/app/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/app/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/app/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/app/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/app/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/app/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/app/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/app/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/app/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/app/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/app/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/app/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/app/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/app/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/app/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/app/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/app/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/app/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/app/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/app/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/app/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/app/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/app/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/app/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/app/bin/Debug/net9.0/Mono.TextTemplating.dll
+/app/bin/Debug/net9.0/MySqlConnector.dll
+/app/bin/Debug/net9.0/Pomelo.EntityFrameworkCore.MySql.dll
+/app/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/app/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/app/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/app/bin/Debug/net9.0/System.CodeDom.dll
+/app/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/app/bin/Debug/net9.0/System.Composition.Convention.dll
+/app/bin/Debug/net9.0/System.Composition.Hosting.dll
+/app/bin/Debug/net9.0/System.Composition.Runtime.dll
+/app/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/app/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/app/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/app/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/app/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/app/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/app/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/app/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/app/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/app/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/app/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/app/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/app/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/app/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/app/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/app/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/app/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/app/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/app/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/app/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/app/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/app/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/app/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/app/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/app/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/app/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/app/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/app/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/app/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/app/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/app/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/app/obj/Debug/net9.0/ENTITYFRAMEWORK.csproj.AssemblyReference.cache
+/app/obj/Debug/net9.0/ENTITYFRAMEWORK.GeneratedMSBuildEditorConfig.editorconfig
+/app/obj/Debug/net9.0/ENTITYFRAMEWORK.AssemblyInfoInputs.cache
+/app/obj/Debug/net9.0/ENTITYFRAMEWORK.AssemblyInfo.cs
+/app/obj/Debug/net9.0/ENTITYFRAMEWORK.csproj.CoreCompileInputs.cache
+/app/obj/Debug/net9.0/ENTITYFRAMEWORK.MvcApplicationPartsAssemblyInfo.cs
+/app/obj/Debug/net9.0/ENTITYFRAMEWORK.MvcApplicationPartsAssemblyInfo.cache
+/app/obj/Debug/net9.0/scopedcss/bundle/ENTITYFRAMEWORK.styles.css
+/app/obj/Debug/net9.0/staticwebassets.build.json
+/app/obj/Debug/net9.0/staticwebassets.build.json.cache
+/app/obj/Debug/net9.0/staticwebassets.development.json
+/app/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/app/obj/Debug/net9.0/ENTITYFR.2C37A547.Up2Date
+/app/obj/Debug/net9.0/ENTITYFRAMEWORK.dll
+/app/obj/Debug/net9.0/refint/ENTITYFRAMEWORK.dll
+/app/obj/Debug/net9.0/ENTITYFRAMEWORK.pdb
+/app/obj/Debug/net9.0/ENTITYFRAMEWORK.genruntimeconfig.cache
+/app/obj/Debug/net9.0/ref/ENTITYFRAMEWORK.dll
