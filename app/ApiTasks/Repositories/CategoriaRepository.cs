@@ -45,3 +45,11 @@ public class CategoriaRepository
         await _contexto.SaveChangesAsync();
     }
 }
+
+
+
+
+
+
+
+

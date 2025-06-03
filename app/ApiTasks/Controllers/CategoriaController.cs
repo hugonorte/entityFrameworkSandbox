@@ -4,7 +4,7 @@ using ApiTasks.Services;
 namespace ApiTasks.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")] // Define a rota base: api/categoria
+    [Route("api/[controller]")] // Define a rota base: api/Categoria
     public class CategoriaController : ControllerBase
     {
         private readonly CategoriaService _categoriaService;
@@ -30,7 +30,8 @@ namespace ApiTasks.Controllers
                 return BadRequest(ModelState);
 
             var novaCategoria = await _categoriaService.IncluirAsync(categoria);
-            return CreatedAtAction(nameof(ListarAsync), new { id = novaCategoria.Id }, novaCategoria);
+            return StatusCode(201, novaCategoria);
+            //return CreatedAtAction(nameof(ListarAsync), new { id = novaCategoria.Id }, novaCategoria);
         }
 
         // PUT: api/categoria/{id}

@@ -2975,25 +2975,24 @@
     ]
   },
   "packageFolders": {
-    "/home/tipstg-06/.nuget/packages/": {}
+    "/root/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/tipstg-06/Documentos/Projects/entityFrameworkSandbox/app/ApiTasks/ApiTasks.csproj",
+      "projectUniqueName": "/app/ApiTasks/ApiTasks.csproj",
       "projectName": "ApiTasks",
-      "projectPath": "/home/tipstg-06/Documentos/Projects/entityFrameworkSandbox/app/ApiTasks/ApiTasks.csproj",
-      "packagesPath": "/home/tipstg-06/.nuget/packages/",
-      "outputPath": "/home/tipstg-06/Documentos/Projects/entityFrameworkSandbox/app/ApiTasks/obj/",
+      "projectPath": "/app/ApiTasks/ApiTasks.csproj",
+      "packagesPath": "/root/.nuget/packages/",
+      "outputPath": "/app/ApiTasks/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/tipstg-06/.nuget/NuGet/NuGet.Config"
+        "/root/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
       ],
       "sources": {
-        "/usr/lib/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3012,7 +3011,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net9.0": {
@@ -3060,7 +3059,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/9.0.106/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
