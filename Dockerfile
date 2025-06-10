@@ -6,6 +6,10 @@ WORKDIR /app
 # Copia os arquivos para dentro da imagem (opcional em dev)
 COPY ./app ./app
 
+# Instala a ferramenta dotnet-ef globalmente
+RUN dotnet tool install -g dotnet-ef
+ENV PATH="${PATH}:/root/.dotnet/tools"
+
 # Expõe a porta padrão da aplicação
 EXPOSE 8080
 
