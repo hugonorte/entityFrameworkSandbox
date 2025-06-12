@@ -1,0 +1,7 @@
+/app/TarefasAPI.Tests/bin/Debug/net9.0/.msCoverageSourceRootsMapping_TarefasAPI.Tests
+/app/TarefasAPI.Tests/bin/Debug/net9.0/CoverletSourceRootsMapping_TarefasAPI.Tests
+/app/TarefasAPI.Tests/obj/Debug/net9.0/TarefasAPI.Tests.csproj.AssemblyReference.cache
+/app/TarefasAPI.Tests/obj/Debug/net9.0/TarefasAPI.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/app/TarefasAPI.Tests/obj/Debug/net9.0/TarefasAPI.Tests.AssemblyInfoInputs.cache
+/app/TarefasAPI.Tests/obj/Debug/net9.0/TarefasAPI.Tests.AssemblyInfo.cs
+/app/TarefasAPI.Tests/obj/Debug/net9.0/TarefasAPI.Tests.csproj.CoreCompileInputs.cache
