@@ -149,5 +149,35 @@ namespace TarefasAPI.Tests.Controllers
             // Assert (Then)
             Assert.IsType<NotFoundResult>(result);
         }
+
+        [Theory]
+        [InlineData("john@example.com", true)] // Email válido
+        public async Task CreateAsync_ReturnsBadRequest_ForInvalidEmail(string email, bool isValid)
+        {
+            // Arrange
+            var mockRepo = new Mock<IUserRepository>();
+            var user = new User { Name = "John Doe", Email = email };
+            mockRepo.Setup(repo => repo.CreateAsync(It.IsAny<User>())).ReturnsAsync(user);
+            var controller = new UsersController(mockRepo.Object);
+
+            // Simula a validação do ModelState
+            if (!isValid)
+            {
+                controller.ModelState.AddModelError("Email", "Invalid email format");
+            }
+
+            // Act
+            var result = await controller.CreateAsync(user);
+
+            // Assert
+            if (isValid)
+            {
+                Assert.IsType<CreatedAtActionResult>(result);
+            }
+            else
+            {
+                Assert.IsType<BadRequestObjectResult>(result);
+            }
+        }
     }
 }

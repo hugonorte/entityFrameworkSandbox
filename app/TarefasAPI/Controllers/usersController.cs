@@ -33,9 +33,19 @@ namespace TarefasAPI.Controllers
             return Ok(user);
         }
 
+        /*         [HttpPost]
+                public async Task<IActionResult> CreateAsync([FromBody] User user)
+                {
+                    var createdUser = await _userRepository.CreateAsync(user);
+                    return CreatedAtAction(nameof(GetByIdAsync), new { id = createdUser.Id }, createdUser);
+                } */
+
         [HttpPost]
         public async Task<IActionResult> CreateAsync([FromBody] User user)
         {
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
             var createdUser = await _userRepository.CreateAsync(user);
             return CreatedAtAction(nameof(GetByIdAsync), new { id = createdUser.Id }, createdUser);
         }
